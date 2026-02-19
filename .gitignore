@@ -1,0 +1,5 @@
+.gitignore
+# Ignore temporary or system files
+.DS_Store
+Thumbs.db
+*.log
